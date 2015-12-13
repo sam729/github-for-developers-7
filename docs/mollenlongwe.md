@@ -1,5 +1,11 @@
 **Bio**
-Mollen Samuel Longwe
-Malawi, Africa
-pizza
-surfing the net
+
+**Name:**Mollen Samuel Longwe
+
+**Country:**Malawi, Africa
+
+**Favorate food:** pizza
+
+**Favorate color:** Blue
+
+**Hobby:**surfing the net
